@@ -5,3 +5,4 @@ run
 jump
 ede
 ff
+tango
